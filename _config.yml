@@ -116,10 +116,10 @@ comments:
   gitalk:
     clientID: 0fc6b1a1200c3e61fef5 # GitHub Application Client ID
     clientSecret: 15ce97664c5b7cb5ac53a28c568cf47fc3d76c4e # GitHub Application Client Secret
-    repository: https://github.com/JLUVicent/commits # GitHub repo
-    owner: JLUVicent # GitHub repo owner
-    # admin:# GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-    # - your GitHub Id
+    repository: jluvicent.github.io # GitHub repo
+    owner: jluvicent # GitHub repo owner
+    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+      - jluvicent
 
   # ## Valine
   # # please refer to https://valine.js.org/en/ for more info.
