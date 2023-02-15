@@ -139,7 +139,7 @@ pageview:
   leancloud:
     app_id: ibYc8kdeXzVcsKzwGYZYvBQN-gzGzoHsz # LeanCloud App id
     app_key: TGHqKZlLLJ8ZHvUNrtKIt86i # LeanCloud App key
-    app_class: lpkeIJlFdrdzebEQyicu95qR # LeanCloud App class
+    app_class: dianji # LeanCloud App class
 
 ## => Search
 ##############################
