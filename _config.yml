@@ -128,7 +128,7 @@ comments:
     app_key: TGHqKZlLLJ8ZHvUNrtKIt86i # LeanCloud App key
     placeholder: "你是我一生只会遇见一次的惊喜 ..." # Prompt information
     visitor: # false (default)
-    # meta: # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
+    meta: ["昵称", "邮箱", "网页(https://)"] # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
 
 ## => Pageview
 ##############################
