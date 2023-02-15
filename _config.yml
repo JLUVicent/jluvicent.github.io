@@ -126,9 +126,9 @@ comments:
   valine:
     app_id: ibYc8kdeXzVcsKzwGYZYvBQN-gzGzoHsz # LeanCloud App id
     app_key: TGHqKZlLLJ8ZHvUNrtKIt86i # LeanCloud App key
-    placeholder: # Prompt information
+    placeholder: "你是我一生只会遇见一次的惊喜 ..." # Prompt information
     visitor: # false (default)
-    meta: # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
+    # meta: # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
 
 ## => Pageview
 ##############################
