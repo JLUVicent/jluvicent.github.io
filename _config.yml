@@ -105,7 +105,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: valine # false (default), "disqus", "gitalk", "valine", "custom"
 
   # ## Disqus
   # disqus:
@@ -113,22 +113,22 @@ comments:
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
-  gitalk:
-    clientID: 0fc6b1a1200c3e61fef5 # GitHub Application Client ID
-    clientSecret: 15ce97664c5b7cb5ac53a28c568cf47fc3d76c4e # GitHub Application Client Secret
-    repository: jluvicent.github.io # GitHub repo
-    owner: jluvicent # GitHub repo owner
-    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - jluvicent
+  # gitalk:
+  #   clientID:  # GitHub Application Client ID
+  #   clientSecret:  # GitHub Application Client Secret
+  #   repository:  # GitHub repo
+  #   owner:  # GitHub repo owner
+  #   admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+  #     -
 
-  # ## Valine
-  # # please refer to https://valine.js.org/en/ for more info.
-  # valine:
-  #   app_id: # LeanCloud App id
-  #   app_key: # LeanCloud App key
-  #   placeholder: # Prompt information
-  #   visitor: # false (default)
-  #   meta: # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
+  ## Valine
+  # please refer to https://valine.js.org/en/ for more info.
+  valine:
+    app_id: pzvOlJmPbk2NC42tmgnw9Gnl-gzGzoHsz # LeanCloud App id
+    app_key: bGZLHaG9W2YhRy5kHaIWUG4S # LeanCloud App key
+    placeholder: # Prompt information
+    visitor: # false (default)
+    meta: # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
 
 ## => Pageview
 ##############################
