@@ -1,9 +1,11 @@
 ---
 layout: article
 title: c&c++_question
-tags: c/c++
+tags: c&c++
 mathjax: true
 key: A-2023-03-26_1
+
+
 ---
 
 c语言的一些问题，参考随想录星球
